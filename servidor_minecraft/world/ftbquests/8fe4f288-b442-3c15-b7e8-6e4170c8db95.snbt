@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8fe4f288b4423c15b7e86e4170c8db95"
+	name: "joshtin25#8fe4f288"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

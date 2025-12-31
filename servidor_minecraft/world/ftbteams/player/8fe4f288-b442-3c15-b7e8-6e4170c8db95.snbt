@@ -1,0 +1,17 @@
+{
+	id: "8fe4f288-b442-3c15-b7e8-6e4170c8db95"
+	type: "player"
+	player_name: "joshtin25"
+	ranks: {
+		8fe4f288-b442-3c15-b7e8-6e4170c8db95: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "joshtin25"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
